@@ -1,0 +1,99 @@
+[INFO] | 2025-04-07 18:26:49.842 | INFO | app.py:<module>:159 | Rendering view for call_20250407_082706
+[INFO] | 2025-04-07 18:26:49.846 | INFO | app.py:<module>:159 | Rendering view for call_20250407_081716
+[INFO] | 2025-04-07 18:26:49.848 | INFO | app.py:<module>:159 | Rendering view for call_20250407_080945
+[INFO] | 2025-04-07 18:26:49.858 | INFO | app.py:<module>:159 | Rendering view for call_20250407_080347
+[INFO] | 2025-04-07 18:26:49.862 | INFO | app.py:<module>:159 | Rendering view for call_20250331_211456
+[INFO] | 2025-04-07 18:26:49.865 | INFO | app.py:<module>:159 | Rendering view for call_20250331_211203
+[INFO] | 2025-04-07 18:26:49.866 | INFO | app.py:<module>:159 | Rendering view for call_20250328_101520
+[INFO] | 2025-04-07 13:24:39.764 | INFO | app.py:<module>:29 | Frontend started.
+[INFO] | 2025-04-07 13:24:45.889 | INFO | app.py:<module>:171 | Rendering view for call_20250407_121443
+[INFO] | 2025-04-07 13:24:45.904 | INFO | app.py:<module>:171 | Rendering view for call_20250407_112213
+[INFO] | 2025-04-07 13:24:45.952 | INFO | app.py:<module>:171 | Rendering view for call_20250407_082706
+[INFO] | 2025-04-07 13:24:45.995 | INFO | app.py:<module>:171 | Rendering view for call_20250407_081716
+[INFO] | 2025-04-07 13:24:46.016 | INFO | app.py:<module>:171 | Rendering view for call_20250407_080945
+[INFO] | 2025-04-07 13:24:46.063 | INFO | app.py:<module>:171 | Rendering view for call_20250407_080347
+[INFO] | 2025-04-07 13:24:46.123 | INFO | app.py:<module>:171 | Rendering view for call_20250331_211456
+[INFO] | 2025-04-07 13:24:46.141 | INFO | app.py:<module>:171 | Rendering view for call_20250331_211203
+[INFO] | 2025-04-07 13:24:46.165 | INFO | app.py:<module>:171 | Rendering view for call_20250328_101520
+[INFO] | 2025-04-07 13:25:05.898 | INFO | app.py:<module>:29 | Frontend started.
+[INFO] | 2025-04-07 13:25:05.929 | INFO | app.py:<module>:171 | Rendering view for call_20250407_121443
+[INFO] | 2025-04-07 13:25:23.359 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:25:53.281 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:26:02.190 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:26:10.743 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:26:19.230 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:26:32.873 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:26:45.138 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:27:21.961 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:27:44.935 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:28:24.489 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:29:06.998 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:29:18.016 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:29:50.636 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:30:01.040 | INFO | fast_api_server.py:analyze_function_call:232 | Function-based query received.
+[INFO] | 2025-04-07 13:37:36.351 | INFO | app.py:<module>:29 | Frontend started.
+[INFO] | 2025-04-07 13:37:41.273 | INFO | app.py:<module>:171 | Rendering view for call_20250407_121443
+[INFO] | 2025-04-07 13:37:41.286 | INFO | app.py:<module>:171 | Rendering view for call_20250407_112213
+[INFO] | 2025-04-07 13:37:41.296 | INFO | app.py:<module>:171 | Rendering view for call_20250407_082706
+[INFO] | 2025-04-07 13:37:41.310 | INFO | app.py:<module>:171 | Rendering view for call_20250407_081716
+[INFO] | 2025-04-07 13:37:41.331 | INFO | app.py:<module>:171 | Rendering view for call_20250407_080945
+[INFO] | 2025-04-07 13:37:41.348 | INFO | app.py:<module>:171 | Rendering view for call_20250407_080347
+[INFO] | 2025-04-07 13:37:41.368 | INFO | app.py:<module>:171 | Rendering view for call_20250331_211456
+[INFO] | 2025-04-07 13:37:41.386 | INFO | app.py:<module>:171 | Rendering view for call_20250331_211203
+[INFO] | 2025-04-07 13:37:41.404 | INFO | app.py:<module>:171 | Rendering view for call_20250328_101520
+[INFO] | 2025-04-07 13:37:46.303 | INFO | app.py:<module>:29 | Frontend started.
+[INFO] | 2025-04-07 13:37:46.327 | INFO | app.py:<module>:171 | Rendering view for call_20250407_121443
+[INFO] | 2025-04-07 13:38:52.444 | INFO | app.py:<module>:29 | Frontend started.
+[INFO] | 2025-04-07 13:38:56.960 | INFO | app.py:<module>:171 | Rendering view for call_20250407_121443
+[INFO] | 2025-04-07 13:38:56.977 | INFO | app.py:<module>:171 | Rendering view for call_20250407_112213
+[INFO] | 2025-04-07 13:38:56.995 | INFO | app.py:<module>:171 | Rendering view for call_20250407_082706
+[INFO] | 2025-04-07 13:38:57.008 | INFO | app.py:<module>:171 | Rendering view for call_20250407_081716
+[INFO] | 2025-04-07 13:38:57.030 | INFO | app.py:<module>:171 | Rendering view for call_20250407_080945
+[INFO] | 2025-04-07 13:38:57.047 | INFO | app.py:<module>:171 | Rendering view for call_20250407_080347
+[INFO] | 2025-04-07 13:38:57.068 | INFO | app.py:<module>:171 | Rendering view for call_20250331_211456
+[INFO] | 2025-04-07 13:38:57.083 | INFO | app.py:<module>:171 | Rendering view for call_20250331_211203
+[INFO] | 2025-04-07 13:38:57.102 | INFO | app.py:<module>:171 | Rendering view for call_20250328_101520
+[INFO] | 2025-04-07 13:39:00.137 | INFO | app.py:<module>:29 | Frontend started.
+[INFO] | 2025-04-07 13:39:00.158 | INFO | app.py:<module>:171 | Rendering view for call_20250407_121443
+[INFO] | 2025-04-07 13:39:01.150 | INFO | analytics.py:<module>:44 | Starting Analysis.
+[INFO] | 2025-04-07 13:39:01.205 | INFO | analytics.py:<module>:89 | Inside smart chat.
+[INFO] | 2025-04-07 13:39:05.583 | INFO | analytics.py:<module>:44 | Starting Analysis.
+[INFO] | 2025-04-07 13:39:05.592 | INFO | analytics.py:<module>:186 | Inside complete analysis.
+[INFO] | 2025-04-07 14:54:45.385 | INFO | fast_api_server.py:<module>:216 | FastAPI application initialized.
+[INFO] | 2025-04-07 14:56:15.808 | INFO | app.py:<module>:29 | Frontend started.
+[INFO] | 2025-04-07 14:56:20.747 | INFO | app.py:<module>:158 | Rendering view for call_20250407_121443
+[INFO] | 2025-04-07 14:56:20.782 | INFO | app.py:<module>:158 | Rendering view for call_20250407_112213
+[INFO] | 2025-04-07 14:56:20.813 | INFO | app.py:<module>:158 | Rendering view for call_20250407_082706
+[INFO] | 2025-04-07 14:56:20.840 | INFO | app.py:<module>:158 | Rendering view for call_20250407_081716
+[INFO] | 2025-04-07 14:56:20.860 | INFO | app.py:<module>:158 | Rendering view for call_20250407_080945
+[INFO] | 2025-04-07 14:56:20.877 | INFO | app.py:<module>:158 | Rendering view for call_20250407_080347
+[INFO] | 2025-04-07 14:56:20.895 | INFO | app.py:<module>:158 | Rendering view for call_20250331_211456
+[INFO] | 2025-04-07 14:56:20.909 | INFO | app.py:<module>:158 | Rendering view for call_20250331_211203
+[INFO] | 2025-04-07 14:56:20.929 | INFO | app.py:<module>:158 | Rendering view for call_20250328_101520
+[INFO] | 2025-04-07 14:56:28.483 | INFO | app.py:<module>:29 | Frontend started.
+[INFO] | 2025-04-07 14:56:28.523 | INFO | app.py:<module>:128 | Detected Text File
+[INFO] | 2025-04-07 14:56:29.720 | INFO | fast_api_server.py:analyze_summary_call:233 | Summary/theme query received.
+[INFO] | 2025-04-07 14:56:57.189 | INFO | app.py:<module>:148 | Reset file cache
+[INFO] | 2025-04-07 14:56:57.208 | INFO | app.py:<module>:158 | Rendering view for call_20250407_145628
+[INFO] | 2025-04-07 14:56:57.238 | INFO | app.py:<module>:158 | Rendering view for call_20250407_121443
+[INFO] | 2025-04-07 14:56:57.261 | INFO | app.py:<module>:158 | Rendering view for call_20250407_112213
+[INFO] | 2025-04-07 14:56:57.280 | INFO | app.py:<module>:158 | Rendering view for call_20250407_082706
+[INFO] | 2025-04-07 14:56:57.299 | INFO | app.py:<module>:158 | Rendering view for call_20250407_081716
+[INFO] | 2025-04-07 14:56:57.316 | INFO | app.py:<module>:158 | Rendering view for call_20250407_080945
+[INFO] | 2025-04-07 14:56:57.339 | INFO | app.py:<module>:158 | Rendering view for call_20250407_080347
+[INFO] | 2025-04-07 14:56:57.362 | INFO | app.py:<module>:158 | Rendering view for call_20250331_211456
+[INFO] | 2025-04-07 14:56:57.378 | INFO | app.py:<module>:158 | Rendering view for call_20250331_211203
+[INFO] | 2025-04-07 14:56:57.396 | INFO | app.py:<module>:158 | Rendering view for call_20250328_101520
+[INFO] | 2025-04-07 14:57:25.767 | INFO | app.py:<module>:29 | Frontend started.
+[INFO] | 2025-04-07 14:57:25.772 | INFO | app.py:<module>:148 | Reset file cache
+[INFO] | 2025-04-07 14:57:25.784 | INFO | app.py:<module>:158 | Rendering view for call_20250407_145628
+[INFO] | 2025-04-07 14:57:26.969 | INFO | analytics.py:<module>:45 | Starting Analysis.
+[INFO] | 2025-04-07 14:57:27.089 | INFO | analytics.py:<module>:90 | Inside smart chat.
+[INFO] | 2025-04-07 14:57:35.828 | INFO | analytics.py:<module>:45 | Starting Analysis.
+[INFO] | 2025-04-07 14:57:35.840 | INFO | analytics.py:<module>:90 | Inside smart chat.
+[INFO] | 2025-04-07 14:57:35.843 | INFO | analytics.py:<module>:129 | Query asked:get bad signs
+[INFO] | 2025-04-07 14:57:35.960 | INFO | fast_api_server.py:analyze_function_call:222 | Function-based query received.
+[INFO] | 2025-04-07 14:57:54.359 | INFO | analytics.py:<module>:45 | Starting Analysis.
+[INFO] | 2025-04-07 14:57:54.378 | INFO | analytics.py:<module>:90 | Inside smart chat.
+[INFO] | 2025-04-07 14:57:54.380 | INFO | analytics.py:<module>:129 | Query asked:get good signs
+[INFO] | 2025-04-07 14:57:54.467 | INFO | fast_api_server.py:analyze_function_call:222 | Function-based query received.
